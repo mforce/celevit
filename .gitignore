@@ -1,0 +1,7 @@
+dotnet
+output
+dotnet-install.sh
+.github
+.vs
+bin
+obj
